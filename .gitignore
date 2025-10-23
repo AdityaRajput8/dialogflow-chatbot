@@ -1,0 +1,9 @@
+# Credentials - DO NOT UPLOAD
+dialogflow_credentials.json
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
